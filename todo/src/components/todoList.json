@@ -1,0 +1,32 @@
+[
+  {
+    "userId": 1,
+    "id": 1,
+    "title": "Write a book",
+    "completed": false
+  },
+  {
+    "userId": 1,
+    "id": 2,
+    "title": "Finish coloring book",
+    "completed": false
+  },
+  {
+    "userId": 1,
+    "id": 3,
+    "title": "Feed dog",
+    "completed": false
+  },
+  {
+    "userId": 1,
+    "id": 4,
+    "title": "Practice drawing",
+    "completed": true
+  },
+  {
+    "userId": 1,
+    "id": 5,
+    "title": "Do homework",
+    "completed": false
+  }
+]
